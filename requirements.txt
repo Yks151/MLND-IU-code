@@ -1,0 +1,22 @@
+# Core dependencies
+torch>=2.0.0
+torchvision>=0.15.1
+numpy>=1.23.5
+
+# Medical imaging specific
+monai>=1.2.0
+torchio>=0.18.85
+
+# Data processing & augmentation
+scikit-image>=0.21.0
+pandas>=2.0.3
+SimpleITK>=2.2.1  # For NIFTI/DICOM support
+
+# Utilities
+tqdm>=4.66.1
+pillow>=10.0.1
+matplotlib>=3.7.2  # For visualization
+pyyaml>=6.0.1      # For config files
+
+# Optional (for multi-GPU training)
+ninja>=1.11.1      # Required for some PyTorch extensions
