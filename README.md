@@ -29,4 +29,3 @@ Adjust batch size to fit GPU video memory
 
 The full implementation requires tuning the data loading section to the actual data format and optimizing model performance with hyperparameter search.
 
-Translated with DeepL.com (free version)
