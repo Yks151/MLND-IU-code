@@ -48,7 +48,7 @@ Official PyTorch implementation of **MLND-IU**, a multi-stage detection framewor
 ### Step-by-Step Setup
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/MLND-IU.git
+git clone https://github.com/Yks151/MLND-IU.git
 cd MLND-IU
 
 # Create conda environment
